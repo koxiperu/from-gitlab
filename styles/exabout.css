@@ -1,0 +1,26 @@
+body {
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: row;
+    gap:10%;
+    width:70%;
+    margin:20px auto;
+
+}
+section {
+    width:50%;
+    background-color: rgb(246, 250, 11);
+}
+h2 {
+    font-size: 30px;
+    color: brown;
+}
+p {
+    font-size: 20px;
+}
+ul {
+    font-size: 20px;
+}
+a {
+    font-size: 50px;
+}
